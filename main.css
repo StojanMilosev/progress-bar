@@ -15,9 +15,10 @@
 #progress{
     width: 100%;
     background-color: #ddd;
+    text-align: center;
 }
 #bar{
-    width: 1%;
+    width: 10%;
     height: 20px;
     background-color: limegreen;
 }
