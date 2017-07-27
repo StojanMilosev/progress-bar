@@ -9,18 +9,21 @@
     padding: 50px;
 }
 .progress-bar-box{
-    width: 500px;
+    width: 700px;
     margin: 20px auto;
 }
 #progress{
     width: 100%;
     background-color: #ddd;
-    text-align: center;
+    border-radius: 5px;
 }
 #bar{
     width: 10%;
-    height: 20px;
+    height: 30px;
+    border-radius: 5px;
     background-color: limegreen;
+    text-align: center;
+    padding-top: 7px;
 }
 button{
         display: block;
